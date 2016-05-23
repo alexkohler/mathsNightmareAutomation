@@ -16,7 +16,7 @@ Note: This script can be configured to perform "random" problems by changing mod
  **Coordinates are based off of using i3 window manager with game in a vertically split halved window (See "Demo" gif below).** This script can easily be modified for other screen setups. The coordinates are the only thing that needs changed. Function analyzeBubble is used to evaluate each math problem. Function cleanImage is used to remove background "noise" (i.e. anything that isn't the number). Below is a sample cleaned image that is passed to Tesseract:
  
  
-![demo gif](debugImg/num1boxNum1.png)
+![demo gif](debugImg/num1boxNum1-reiter.png)
  
  
 

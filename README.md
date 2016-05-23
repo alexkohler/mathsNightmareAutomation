@@ -1,5 +1,5 @@
 # Math's Nightmare Automation
-###### Automation of Neopet's Math's Nightmare Flash game using PyAutoGui
+Automation of Neopet's Math's Nightmare Flash game using PyAutoGui
 
 # Dependencies
 Installable via pip:

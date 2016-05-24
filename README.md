@@ -1,5 +1,5 @@
 # Math's Nightmare Automation
-Automation of Neopet's Math's Nightmare Flash game using PyAutoGui
+Automation of Neopet's Math's Nightmare Flash game using PyAutoGui for clicking/keyboard input and Tesseract for optical character recognigition
 
 # Dependencies
 Installable via pip:
